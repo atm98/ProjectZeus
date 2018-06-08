@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "42355245458",
+    "firebase_url": "https://intellicam-85f75.firebaseio.com",
+    "project_id": "intellicam-85f75",
+    "storage_bucket": "intellicam-85f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42355245458:android:5bc09633a99d0e08",
+        "android_client_info": {
+          "package_name": "com.agnt45.projectzeus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42355245458-lj8rotid2t39ldsa4808qu69caehjfp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agnt45.projectzeus",
+            "certificate_hash": "72ffabb0bb9a94940ca910f3c969e3cb68502571"
+          }
+        },
+        {
+          "client_id": "42355245458-qdrumgon9s0hm7cr5123d7ijheqd5vlm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "42355245458-qdrumgon9s0hm7cr5123d7ijheqd5vlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWxCo1iAgFD_KF52E5pYP2VbIYy_DVxIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42355245458-qdrumgon9s0hm7cr5123d7ijheqd5vlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42355245458:android:9040d27b5e72fec9",
+        "android_client_info": {
+          "package_name": "com.example.an160.checkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42355245458-edap46jke6mnd150upulshtu8skq44t4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.an160.checkapp",
+            "certificate_hash": "72ffabb0bb9a94940ca910f3c969e3cb68502571"
+          }
+        },
+        {
+          "client_id": "42355245458-qdrumgon9s0hm7cr5123d7ijheqd5vlm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "42355245458-qdrumgon9s0hm7cr5123d7ijheqd5vlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWxCo1iAgFD_KF52E5pYP2VbIYy_DVxIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42355245458-qdrumgon9s0hm7cr5123d7ijheqd5vlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
